@@ -16,7 +16,7 @@ The code of this porject is primarily Kotlin and XML
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+The following resources were useful in the creation of my app:
 * [ProgrammingKnowledge on YouTube](https://www.youtube.com/watch?v=2TDqOhFpuqs) A useful tutorial on installing Android Studio
 * [Treehouse on YouTube](https://www.youtube.com/watch?v=EOfCEhWq8sg&t=291s) A beginner's tutorial to Android app development
 
