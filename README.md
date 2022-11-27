@@ -1,30 +1,28 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This project marks my very first venture into mobile app development. In completing this project, I have the opportunity to learn a very marketable and in-demand skill.
 
-{Provide a description of your app.  Describe how to use the app.}
+The app I am creating a simple To-Do List application for android. Users will be able to add items to a list, check them off as they are completed, and remove all checked off items when they are done.
 
-{Describe your purpose for creating this app.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
+I am undertaking this project to help me to further my academic progress.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the app}
+This project was developed in Android Studio
 
-{Describe the programming language that you used and any libraries.}
+The code of this porject is primarily Kotlin and XML
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [ProgrammingKnowledge on YouTube](https://www.youtube.com/watch?v=2TDqOhFpuqs) A useful tutorial on installing Android Studio
+* [Treehouse on YouTube](https://www.youtube.com/watch?v=EOfCEhWq8sg&t=291s) A beginner's tutorial to Android app development
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+In the future, I would like to work on the following:
+* Making the app functional
+* Implementing the "Due Dates" idea I described in my Module 5 Plan
+* Run the app on an actual Android device and not just on an emulator
